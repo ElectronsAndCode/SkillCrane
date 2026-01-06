@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "BigChoice")(type "KiCad")(uri "${KIPRJMOD}/BigChoice.kicad_sym")(options "")(descr ""))
+)

@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "BigChoice")(type "KiCad")(uri "${KIPRJMOD}/BigChoice.pretty")(options "")(descr ""))
+)
